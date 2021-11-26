@@ -1,0 +1,194 @@
+.document {
+    height: 297mm;
+    width: 210mm; 
+    position: relative;
+}
+.bang-lai { 
+    /* background: url(maubang1.jpg) no-repeat; */
+    height: 267mm;
+    width: 187mm;
+    z-index: 0;
+}
+.info{
+    transform: rotate(90deg);
+    position: absolute;
+    bottom: 272px;
+    z-index: 22;
+    width: 267mm;
+    height: 187mm;
+    left: -155px;
+}
+
+.test {
+    page-break-after: always;
+}
+/* @media print { media query 
+   
+} */
+.text {
+    position: absolute;
+}
+ 
+
+/* BANG LAI TIENG ANH */
+.hang-gplx-en {
+    font-weight: bold;
+    top: 35%;
+    left: 32%;
+    font-size: 18px;
+}
+
+.ho-va-ten-en {
+    font-weight: 600;
+    top: 40%;
+    left: 15%;
+    font-size: 18px;
+}
+
+.gioi-tinh-en {
+    font-weight: 600;
+    top: 40%;
+    left: 89.5%;
+}
+
+.date-en { 
+    font-weight: 500;
+    font-style: italic;
+}
+
+.format {
+    display: flex;
+    /* flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center; */
+    top: 59.6%;
+    left: 28%;
+}
+
+/* .format .month {
+    position: relative;
+}
+*/
+.format .date {
+    padding-left: 10px;
+}
+
+.format .unit {
+    left: 97px;
+    top: 9px;
+    position: absolute
+}
+
+.format .year {
+    padding-left: 20px;
+}
+
+.unitDay {
+    color: aqua;
+    font-size: x-small;
+}
+
+.xep-loai-en {
+    font-weight: 600;
+    top: 51%;
+    left: 24%;
+}
+
+.anh-the {
+    width: 114px;
+    height: 152px;
+    top: 69.4%;
+    left: 4.3%;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.number-ccn {
+    top: 92.5%;
+    left: 11%;
+    font-weight: 500;
+    font-style: oblique;
+}
+
+.birthday-en {
+    top: 45.7%;
+    left: 21.4%;
+    font-weight: 500;
+}
+/* BANG LAI TIENG ANH */
+
+/* BANG LAI TIENG VIET */
+.hang-gplx-vn {
+    font-weight: bold;
+    top: 35%;
+    left: 72%;
+    font-size: 18px;
+}
+
+.ho-va-ten-vn {
+    font-weight: 600;
+    top: 39.8%;
+    left: 59%;
+    font-size: 18px;
+}
+
+.birthday-vn {
+    top: 45.7%;
+    left: 63.4%;
+    font-weight: 500;
+}
+
+.xep-loai-vn {
+    top: 50%;
+    left: 70%;
+    font-weight: 600;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.number-vsccn {
+    top: 92.5%;
+    left: 70%;
+    font-weight: 500;
+    font-style: oblique;
+}
+
+.so-hieu {
+    top: 89.5%;
+    left: 58%;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.chu-ki {
+    height: 90px;
+    top: 66.6%;
+    left: 66%;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.date {
+    top: 58%;
+    left: 78.3%;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.month {
+    top: 58%;
+    left: 85.8%;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.year {
+    top: 58%;
+    left: 92.8%; 
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* BANG LAI TIENG VIET */

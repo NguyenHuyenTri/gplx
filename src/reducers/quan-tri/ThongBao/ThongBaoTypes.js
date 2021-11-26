@@ -1,0 +1,14 @@
+export default {                                                         
+  SET_LOADING_THONG_BAO: "SET_LOADING_THONG_BAO",  
+  CREATE_THONG_BAO: "CREATE_THONG_BAO",            
+  GET_ALL_THONG_BAO: "GET_ALL_THONG_BAO",          
+  GET_BY_ID_THONG_BAO: "GET_BY_ID_THONG_BAO",          
+  UPDATE_THONG_BAO: "UPDATE_THONG_BAO",     
+  // GET_THONG_BAO_TC: "GET_THONG_BAO_TC",
+  GET_COMBOBOX_SAT_HACH: "GET_COMBOBOX_SAT_HACH",
+  GET_COMBOBOX_KHOA_HOC: "GET_COMBOBOX_KHOA_HOC", 
+  ACTIVE_NOTIFICATION: "ACTIVE_NOTIFICATION",
+  INACTIVE_NOTIFICATION: "ACTIVE_NOTIFICATION",
+  INACTIVE_NOTIFICATION_APPBAR: "INACTIVE_NOTIFICATION_APPBAR",
+  GET_THONG_BAO_TC: '@quantri/get-thong-bao-tc',
+};                                                                       

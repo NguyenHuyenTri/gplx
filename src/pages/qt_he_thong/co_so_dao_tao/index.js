@@ -1,0 +1,1 @@
+export { default as CoSoDaoTao } from './CoSoDaoTao';

@@ -1,0 +1,10 @@
+.MuiIconButton-root:focus{
+    border: unset !important;
+}
+.MuiIconButton-root:active,
+.MuiIconButton-root:hover {
+    background-color: unset !important;
+}
+/* .MuiIconButton-root {
+    background-color:'white';
+} */

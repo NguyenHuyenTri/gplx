@@ -1,0 +1,10 @@
+.MuiTypography-h6{
+    font-size: 16px !important;
+}
+.MTableToolbar-searchField-49 {
+    min-width: 150px !important;
+    max-width: 250px !important;
+}
+/* .MuiTableCell-paddingNone:last-child {
+    display: unset !important;
+} */
